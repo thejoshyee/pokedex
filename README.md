@@ -1,5 +1,8 @@
 
-## Scrimba - Challenge
+## Scrimba - API Challenge
+
+# About 
+This was one of many challenges on Scrimba's Front End Developer Career Path. The target focus was using Fetch to gather API data and display it on a page using CSS grid and CSS flexbox. This project displays various pokemon data to mimic a pokedex. 
 
 ## Technologies
 Flexbox</br>
