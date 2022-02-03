@@ -2,9 +2,9 @@
 ## Scrimba - Challenge
 
 ## Technologies
-Flexbox
-Grid
-Fetch
+Flexbox</br>
+Grid</br>
+Fetch </br>
 
 
 Quick start:
