@@ -9,6 +9,8 @@ Flexbox</br>
 Grid</br>
 Fetch </br>
 
+## Preview
+<img src="https://github.com/thejoshyee/pokedex/blob/main/pokedex-preview.png" width="50%" />
 
 Quick start:
 
